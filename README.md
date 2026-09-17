@@ -1,7 +1,7 @@
-# CRUD de Funcionários
+# CRUD de Pedidos
 
 Projeto desenvolvido em Java para praticar
-os fundamentos da programação e operações CRUD.
+operações CRUD e orientação a objetos.
 
 ## Tecnologias
 - Java
@@ -9,10 +9,10 @@ os fundamentos da programação e operações CRUD.
 - Git e GitHub
 
 ## Funcionalidades
-- Cadastro de registros
-- Listagem
-- Atualização
-- Remoção
+- Cadastro de pedidos
+- Listagem de pedidos
+- Atualização de pedidos
+- Remoção de pedidos
 
 ## Objetivo
 Praticar lógica de programação, orientação
